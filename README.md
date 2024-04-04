@@ -20,11 +20,16 @@ Knowing the basics of the build of a computer will allow me to easily diagnos ce
 
 
 https://www.wikihow.com/Build-a-Computer
+
+
 https://www.youtube.com/watch?v=MtALhv22Ltk
 
 
 # Things I Want to Know More About
 
-Is there a way to add a motherboard to anotherboard?
+Is there a way to add a motherboard to another motherboard?
+
 How much RAM is too much RAM?
+
 How often should i upgrade my CPU 
+
